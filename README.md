@@ -68,6 +68,10 @@
 </div>
 
 ---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Brian44ki&color=blueviolet&style=flat-square" alt="Profile View Counter" />
+</div>
+---
 
 ## 💡 About Me
 
