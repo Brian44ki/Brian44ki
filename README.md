@@ -1,7 +1,7 @@
 <div align="center">
 
 # BRIAN KIPRUTO CHEPCHIENG
-### Electrical & Technology Education | IoT Builder | Robotics Engineer | Tiny AI Explorer
+### Electrical  Technology & Computing | IoT Builder | Robotics Engineer | Tiny AI Explorer
 
 *Always learning. Always building.*
 
