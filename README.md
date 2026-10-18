@@ -40,6 +40,12 @@
 * **Autonomous Rovers:** Development of inspection rovers like *VibroGuard* and *EldoCompanion*.
 
 ---
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Brian44ki&show_icons=true&theme=radical&hide_border=true" alt="Brian's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brian44ki&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+---
+
 
 ## 💡 About Me
 
