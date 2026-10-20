@@ -1,12 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4AA&height=200&section=header&text=Brian%20Kipruto%20Chepchieng&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Electrical%20Technology%20%26%20Computer%20Engineering&descSize=16&descAlignY=58" alt="Header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4AA&height=140&section=header" alt="Header" width="100%"/>
+
+# BRIAN KIPRUTO CHEPCHIENG
+
+### Electrical Technology & Computer Computing · IoT Builder · Robotics Engineer · Tiny AI Explorer
 
 <a href="https://github.com/Brian44ki">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4AA&center=true&vCenter=true&width=620&lines=IoT+Builder;Robotics+Engineer;Tiny+AI+Explorer;Always+learning.+Always+building." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4AA&center=true&vCenter=true&width=620&lines=Always+learning.+Always+building.;Embedded+Systems+%7C+IoT+%7C+Robotics;Solving+real+African+problems+with+technology" alt="Typing animation" />
 </a>
 
-🎓 Moi University (Class of 2027) &nbsp;·&nbsp; 📍 Eldoret, Kenya
+🎓 Moi University  &nbsp;·&nbsp; 📍 Eldoret, Kenya
 
 <p>
   <a href="https://www.linkedin.com/in/brian-kipruto-061799287"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4AA" alt="LinkedIn"></a>
@@ -20,42 +24,64 @@
 
 ## 👨‍💻 About Me
 
-I build **IoT and edge-AI systems**, from solar-powered cold storage to health-monitoring rovers, to solve real problems in Kenya and across Africa. I work where hardware meets software, with a cybersecurity mindset and a long-term goal of building a large-scale technology startup.
+I'm **Brian Kipruto Chepchieng**, an Electrical Technology and Computer Engineering student at Moi University. I build **IoT and edge-AI systems**, from solar-powered cold storage to health-monitoring rovers, to solve real problems in Kenya and across Africa. I work where hardware meets software, with a cybersecurity mindset and a long-term goal of building a large-scale technology startup.
 
 ---
 
 ## ⚡ Tech Stack
 
-### 🔌 Embedded Systems & IoT
+### 💻 Languages & Software
 <p>
-  <img src="https://img.shields.io/badge/Arduino-0D1117?style=for-the-badge&logo=arduino&logoColor=00D4AA" alt="Arduino">
-  <img src="https://img.shields.io/badge/ESP32-0D1117?style=for-the-badge&logo=espressif&logoColor=00D4AA" alt="ESP32">
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-0D1117?style=for-the-badge&logo=raspberrypi&logoColor=00D4AA" alt="Raspberry Pi">
-  <img src="https://img.shields.io/badge/MQTT-0D1117?style=for-the-badge&logo=mqtt&logoColor=00D4AA" alt="MQTT">
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nodejs,express,nextjs,mongodb,firebase,git,linux&theme=dark" alt="Languages and software" />
 </p>
 
-- **Protocols:** MQTT · I2C · SPI · UART · NB-IoT
+> **C · C++ · Python · JavaScript** for firmware, edge AI and full-stack apps
+
+### 🔌 Embedded Boards & Microcontrollers
+<p>
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi%20Pico-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi Pico">
+  <img src="https://img.shields.io/badge/NodeMCU-1F2937?style=for-the-badge&logo=espressif&logoColor=white" alt="NodeMCU">
+  <img src="https://img.shields.io/badge/NVIDIA%20Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="NVIDIA Jetson">
+  <img src="https://img.shields.io/badge/Nordic%20nRF52-00A9CE?style=for-the-badge&logo=bluetooth&logoColor=white" alt="Nordic nRF52">
+</p>
+
+### 📡 Protocols & Connectivity
+<p>
+  <img src="https://img.shields.io/badge/MQTT-0D1117?style=flat-square&logoColor=00D4AA&labelColor=0D1117&color=00D4AA" alt="MQTT">
+  <img src="https://img.shields.io/badge/I2C-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="I2C">
+  <img src="https://img.shields.io/badge/SPI-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="SPI">
+  <img src="https://img.shields.io/badge/UART-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="UART">
+  <img src="https://img.shields.io/badge/CAN-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="CAN">
+  <img src="https://img.shields.io/badge/BLE-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="BLE">
+  <img src="https://img.shields.io/badge/LoRa-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="LoRa">
+  <img src="https://img.shields.io/badge/NB--IoT-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="NB-IoT">
+</p>
+
+### 🤖 AI, Vision & Robotics
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,ros&theme=dark" alt="AI and robotics" />
+</p>
+
 - **Edge AI:** TinyML · TensorFlow Lite for Microcontrollers
-
-### 🤖 Robotics & Vision
-<p>
-  <img src="https://img.shields.io/badge/OpenCV-0D1117?style=for-the-badge&logo=opencv&logoColor=00D4AA" alt="OpenCV">
-  <img src="https://img.shields.io/badge/TensorFlow-0D1117?style=for-the-badge&logo=tensorflow&logoColor=00D4AA" alt="TensorFlow">
-</p>
-
-- **Focus:** Autonomous navigation · Actuator control · Mobile inspection rovers
+- **Robotics focus:** Autonomous navigation · Actuator control · Mobile inspection rovers
 - **Exploring:** ROS2
 
-### 💻 Software & Cloud
-<p>
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00D4AA" alt="C++">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D4AA" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00D4AA" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00D4AA" alt="React">
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=00D4AA" alt="Node.js">
-  <img src="https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=00D4AA" alt="Firebase">
-  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00D4AA" alt="MongoDB">
-</p>
+---
+
+## 🏭 What Industry Needs, and Where I'm Heading
+
+| Field | What employers look for | My focus |
+|:--|:--|:--|
+| **🔧 Embedded Systems** | Embedded C/C++ · RTOS (FreeRTOS, Zephyr) · STM32 and ARM Cortex-M · timers, ADC, DMA and interrupts · low-power design · SWD/JTAG debugging · PCB design (KiCad, Altium) · CAN and Modbus | ✅ C/C++ firmware on ESP32 and Arduino<br>🔄 STM32, RTOS and PCB design |
+| **🌐 IoT** | MQTT, HTTP, CoAP · BLE, Wi-Fi, LoRa, NB-IoT · cloud platforms (AWS IoT, Azure IoT, Firebase) · OTA firmware updates · device security (TLS, secure boot) · dashboards and data pipelines | ✅ MQTT, NB-IoT, Firebase dashboards<br>🔄 OTA updates and secure provisioning |
+| **🤖 Robotics** | ROS2 · control systems (PID) · kinematics · SLAM and navigation · sensor fusion · computer vision · simulation (Gazebo) · Python and C++ | ✅ Rovers, OpenCV and edge-AI vision<br>🔄 ROS2, SLAM and sensor fusion |
+| **🛡️ Cross-cutting** | Cybersecurity awareness · Git and CI · documentation · testing and validation · teamwork and product thinking | ✅ Security background, Git, startup mindset |
+
+<sub>✅ working with now &nbsp;·&nbsp; 🔄 actively building up</sub>
 
 ---
 
@@ -93,7 +119,7 @@ I build **IoT and edge-AI systems**, from solar-powered cold storage to health-m
 ## 🌱 Currently
 
 - 🔭 Building and prototyping IoT and edge-AI systems
-- 📚 Exploring ROS2 and deeper robotics workflows
+- 📚 Learning STM32, RTOS and ROS2 to work at industry level
 - 🏗️ Turning engineering projects into real, scalable products
 
 ---
