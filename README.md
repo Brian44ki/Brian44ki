@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:00D4AA&height=140&section=header" alt="Header" width="100%"/>
-
 # BRIAN KIPRUTO CHEPCHIENG
 
 ### Electrical Technology & Computing · IoT Builder · Robotics Engineer · Tiny AI Explorer
