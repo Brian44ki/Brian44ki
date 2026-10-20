@@ -4,13 +4,13 @@
 
 # BRIAN KIPRUTO CHEPCHIENG
 
-### Electrical Technology & Computer Computing · IoT Builder · Robotics Engineer · Tiny AI Explorer
+### Electrical Technology & Computing · IoT Builder · Robotics Engineer · Tiny AI Explorer
 
 <a href="https://github.com/Brian44ki">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D4AA&center=true&vCenter=true&width=620&lines=Always+learning.+Always+building.;Embedded+Systems+%7C+IoT+%7C+Robotics;Solving+real+African+problems+with+technology" alt="Typing animation" />
 </a>
 
-🎓 Moi University  &nbsp;·&nbsp; 📍 Eldoret, Kenya
+🎓 Moi University (Class of 2027) &nbsp;·&nbsp; 📍 Eldoret, Kenya
 
 <p>
   <a href="https://www.linkedin.com/in/brian-kipruto-061799287"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D4AA" alt="LinkedIn"></a>
@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Brian Kipruto Chepchieng**, an Electrical Technology and Computer Engineering student at Moi University. I build **IoT and edge-AI systems**, from solar-powered cold storage to health-monitoring rovers, to solve real problems in Kenya and across Africa. I work where hardware meets software, with a cybersecurity mindset and a long-term goal of building a large-scale technology startup.
+I'm **Brian Kipruto Chepchieng**, an Electrical Technology and Computing student at Moi University. I design and build **embedded, IoT and edge-AI systems**, from solar-powered cold storage to health-monitoring rovers, to solve real problems in Kenya and across Africa. I work where hardware meets software, with a cybersecurity mindset and a long-term goal of building a large-scale technology startup.
 
 ---
 
@@ -34,8 +34,6 @@ I'm **Brian Kipruto Chepchieng**, an Electrical Technology and Computer Engineer
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,py,js,react,nodejs,express,nextjs,mongodb,firebase,git,linux&theme=dark" alt="Languages and software" />
 </p>
-
-> **C · C++ · Python · JavaScript** for firmware, edge AI and full-stack apps
 
 ### 🔌 Embedded Boards & Microcontrollers
 <p>
@@ -51,7 +49,7 @@ I'm **Brian Kipruto Chepchieng**, an Electrical Technology and Computer Engineer
 
 ### 📡 Protocols & Connectivity
 <p>
-  <img src="https://img.shields.io/badge/MQTT-0D1117?style=flat-square&logoColor=00D4AA&labelColor=0D1117&color=00D4AA" alt="MQTT">
+  <img src="https://img.shields.io/badge/MQTT-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="MQTT">
   <img src="https://img.shields.io/badge/I2C-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="I2C">
   <img src="https://img.shields.io/badge/SPI-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="SPI">
   <img src="https://img.shields.io/badge/UART-0D1117?style=flat-square&labelColor=0D1117&color=00D4AA" alt="UART">
@@ -66,22 +64,17 @@ I'm **Brian Kipruto Chepchieng**, an Electrical Technology and Computer Engineer
   <img src="https://skillicons.dev/icons?i=opencv,tensorflow,ros&theme=dark" alt="AI and robotics" />
 </p>
 
-- **Edge AI:** TinyML · TensorFlow Lite for Microcontrollers
-- **Robotics focus:** Autonomous navigation · Actuator control · Mobile inspection rovers
-- **Exploring:** ROS2
-
 ---
 
-## 🏭 What Industry Needs, and Where I'm Heading
+## 🧠 Core Competencies
 
-| Field | What employers look for | My focus |
-|:--|:--|:--|
-| **🔧 Embedded Systems** | Embedded C/C++ · RTOS (FreeRTOS, Zephyr) · STM32 and ARM Cortex-M · timers, ADC, DMA and interrupts · low-power design · SWD/JTAG debugging · PCB design (KiCad, Altium) · CAN and Modbus | ✅ C/C++ firmware on ESP32 and Arduino<br>🔄 STM32, RTOS and PCB design |
-| **🌐 IoT** | MQTT, HTTP, CoAP · BLE, Wi-Fi, LoRa, NB-IoT · cloud platforms (AWS IoT, Azure IoT, Firebase) · OTA firmware updates · device security (TLS, secure boot) · dashboards and data pipelines | ✅ MQTT, NB-IoT, Firebase dashboards<br>🔄 OTA updates and secure provisioning |
-| **🤖 Robotics** | ROS2 · control systems (PID) · kinematics · SLAM and navigation · sensor fusion · computer vision · simulation (Gazebo) · Python and C++ | ✅ Rovers, OpenCV and edge-AI vision<br>🔄 ROS2, SLAM and sensor fusion |
-| **🛡️ Cross-cutting** | Cybersecurity awareness · Git and CI · documentation · testing and validation · teamwork and product thinking | ✅ Security background, Git, startup mindset |
-
-<sub>✅ working with now &nbsp;·&nbsp; 🔄 actively building up</sub>
+| Field | What I do |
+|:--|:--|
+| **🔧 Embedded Systems** | Embedded C/C++ firmware · STM32 and ARM Cortex-M · RTOS · timers, ADC, DMA and interrupts · low-power design · SWD/JTAG debugging · PCB design · CAN and Modbus |
+| **🌐 IoT** | MQTT and HTTP · BLE, Wi-Fi, LoRa and NB-IoT · cloud platforms (Firebase) · OTA firmware updates · device security · live dashboards and data pipelines |
+| **🤖 Robotics** | ROS2 · PID control · kinematics · autonomous navigation · sensor fusion · computer vision with OpenCV · Python and C++ |
+| **🧬 Edge AI** | TinyML · TensorFlow Lite for Microcontrollers · on-device inference on ESP32 and Raspberry Pi |
+| **🛡️ Security & Product** | Cybersecurity background · secure-by-design systems · Git workflows · testing and documentation · startup and product thinking |
 
 ---
 
@@ -119,8 +112,7 @@ I'm **Brian Kipruto Chepchieng**, an Electrical Technology and Computer Engineer
 ## 🌱 Currently
 
 - 🔭 Building and prototyping IoT and edge-AI systems
-- 📚 Learning STM32, RTOS and ROS2 to work at industry level
-- 🏗️ Turning engineering projects into real, scalable products
+- 🏗️ Turning engineering projects into real, scalable products for Africa
 
 ---
 
